@@ -194,6 +194,3 @@ streamlit run app.py
 └── requirements.txt    # Python dependencies
 ```
 
-## 🛡️ License
-
-MIT License.
