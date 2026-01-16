@@ -41,7 +41,7 @@ The application runs **fully locally** using a locally hosted LLM and vector dat
   Document ingestion and indexing are handled asynchronously using background workflows (Inngest).
 
 - **Production-Style UI**  
-  Clean, NotebookLM-inspired interface built with Streamlit, emphasizing clarity and trust.
+  Clean, interactive interface built with Streamlit, emphasizing clarity and trust.
 
 - **Local-First Architecture**  
   No external APIs required; designed to run on CPU-only systems.
