@@ -119,8 +119,8 @@ Before running the application, ensure you have the following installed:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/context-clerk.git
-    cd context-clerk
+    git clone https://github.com/SwapnilD03/ContextClerk.git
+    cd ContextClerk
     ```
 
 2.  **Create a virtual environment**:
