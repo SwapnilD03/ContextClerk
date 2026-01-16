@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+inngest
+qdrant-client
+llama-index-core
+llama-index-readers-file
+openai
+pdf2image
+pytesseract
+python-dotenv
+httpx
+requests
+numpy
