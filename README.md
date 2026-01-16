@@ -136,8 +136,7 @@ Before running the application, ensure you have the following installed:
     ```bash
     pip install -r requirements.txt
     ```
-    *(Note: If `requirements.txt` is missing, ensure you have `streamlit`, `fastapi`, `inngest`, `qdrant-client`, `llama-index`, `python-dotenv`, `openai`, `pdf2image`, `pytesseract`, `httpx` installed).*
-
+    
 4.  **Set up environment variables**:
     Create a `.env` file in the root directory:
     ```env
